@@ -32,7 +32,6 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
-  margin-left: 1.25rem
 }
 h2 {
   font-size: 1.875rem;
@@ -458,7 +457,6 @@ footer .footer-custom-content {
 .post-preview .post-title {
   font-size: 1.875rem;
   margin-top: 0;
-  padding-left: 0.3rem;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -644,12 +642,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   transition: opacity 1s linear;
 }
 .intro-header .page-heading {
-  text-align: left;
+  text-align: center;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  color: #212558;
+  color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
